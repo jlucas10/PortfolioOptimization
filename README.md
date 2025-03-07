@@ -43,7 +43,7 @@ A Python script that optimizes stock portfolio allocation using historical price
 1. **Install Dependencies**
 
 ```bash
-pip install yfinance pandas numpy scikit-learn matplotlib
+pip install yfinance pandas numpy scipy matplotlib
 ```
 
 2. **Run the Script**
